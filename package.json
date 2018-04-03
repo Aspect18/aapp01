@@ -1,0 +1,19 @@
+{
+  "name": "app01",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "jjs",
+    "express"
+  ],
+  "author": "Sadry",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
